@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Caio Ferreira
 - 👀 Tenho interesse na área Front End com o desenvolvimento de web sites.
-- 🌱 Atualmente estou desenvolvendo em JavaScript, HTML5 e CSS3 e utilizando Node.JS como ferramenta de Back End
+- 🌱 Atualmente estou desenvolvendo em JavaScript, HTML5 e CSS3 e utilizando Node.JS, React como ferramenta de Back End
 - 💞️ Procuro colaborar em projetos web, visando o crescimento profissional e pessoal.
 - 📫 Entre em contato comigo a partir do e-mail: caio.ferreira.developerFE@gmail.com
 
